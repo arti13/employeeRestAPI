@@ -11,6 +11,7 @@ This Spring Boot application provides RESTful APIs for managing employee data st
 - 🧮 Auto-incrementing employee IDs
 - ⏱️ Logs execution time of methods annotated with `@LogExecutionTime`
 - 📅 Retrieve employees who joined in the last 30 days
+- 📐 Use of **Spring Data Projection** with custom `@Query` for optimized and partial data fetching
 
 ---
 
